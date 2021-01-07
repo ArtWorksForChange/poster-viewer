@@ -1,0 +1,112 @@
+<data>
+  <title>
+      Ride Along
+  </title>
+  <link>
+  https://algrumet.com/portfolio/ride-along/
+  </link>
+
+  <stories>  
+
+
+
+<story>
+  <label>Stuck in Our Ways</label>
+  <region
+    x="0.0"
+    y="0.0"
+    width="1.0"
+    height="0.57248"
+  />
+  <html>
+    <p>Opening up the poster, you can see a rider falling off of a donkey that is standing still.</p>
+  </html>
+</story>
+
+<story>
+    <label>Monkey on Back</label>
+    <region
+      x="0"
+      y="0"
+      width="0.27930"
+      height="0.19083"
+    />
+    <html>
+      Here we see a monkey on the rider's back. This symbolizes the burden on future generations of the current political climate.
+    </html>
+</story>
+
+<story>
+  <label>Monkey on Head</label>
+  <region
+    x="0.27930"
+    y="0"
+    width="0.15612"
+    height="0.13716"
+  />
+  <html>
+    Here we see a second monkey. This one is sitting on the rider's head. Perhaps the monkey is influencing the thoughts of the rider.
+  </html>
+</story>
+
+<story>
+  <label>Donkey Head</label>
+    <region
+  x="0.35000"
+  y="0"
+  width="0.27523"
+  height="0.27477"
+/>
+  <html>Here we zoom in on the donkey's head. The rider is riding a donkey rather than a horse. This indicates that the rider is not that intelligent.
+  </html>
+</story>
+
+<story>
+  <label>Backpack Strap</label>
+  <region
+  x="0.61040"
+  y="0"
+  width="0.19281"
+  height="0.13624"
+/>
+  <html>This backpack strap is hanging freely. It indicates an untethered rider, who is likely in danger. It is not a story that will end well.
+  </html>
+</story>
+
+<story>
+  <label>Stop</label>
+<region
+  x="0.73073"
+  y="0"
+  width="0.26927"
+  height="0.23257"
+/>
+  <html>An urgent call is issued for the insanity to end. There is much at stake, but the momentum of destructive habits carries the rider forward on his ill-fated ride.
+  </html>
+</story>
+
+<story>
+  <label>Falling Rider</label>
+  <region
+  x="0"
+  y="0.08654"
+  width="0.46193"
+  height="0.36820"
+/>
+  <html>The rider is hanging on for dear life, but it does not bode well for him. By clinging to the addictions of the past, he has put himself in jeopardy. Now he must pull himself back onto the saddle in order to avoid serious injury.
+</html>
+</story>
+<story>
+  <label>Ghostly Figure</label>
+  <region
+  x="0.42783"
+  y="0.11239"
+  width="0.32217"
+  height="0.24878"
+/>
+  <html>The ghostly figure warns us to take action before it is too late. The removal of the demagogue is paramount, and must be followed by decisive action. It will take everyone working together to change course.
+  </html>
+</story>
+
+  </stories>
+</data>
